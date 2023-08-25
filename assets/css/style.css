@@ -1,3 +1,7 @@
+/* Google font styles */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+
 /* Asterisk wildcard selector to override default styles added by browser */
 * {
     padding: 0;
@@ -20,15 +24,39 @@ nav {
     padding: 3rem 10rem;
     align-items: center;
     font-size: 150%;
-    
+
 
 }
 
-#menu > li {
-    list-style: none;
+#menu>li {
+    list-style-type: none;
     position: relative;
     display: inline-flex;
     justify-content: space-between;
     padding: 0 5rem;
+    font-style: "Bree Serif", serif;
+
 }
+
+#menu>li a {
+    color: red;
+    text-decoration: none;
+}
+
+#menu > li a:hover {
+    color: whitesmoke;
+}
+
+.title {
+    color: red;
+    position: absolute;
+    text-align: left;
+    width: 90%;
+    font-size: 260%;
+    padding-top: 11rem;
+    padding-left: 2rem;
     
+}
+.title h2 {
+    padding-left: 8rem;
+}
