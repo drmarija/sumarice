@@ -13,3 +13,22 @@
     background-size: cover;
     position: relative;
 }
+
+/* Styling the navbar */
+nav {
+    display: flex;
+    padding: 3rem 10rem;
+    align-items: center;
+    font-size: 150%;
+    
+
+}
+
+#menu > li {
+    list-style: none;
+    position: relative;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 0 5rem;
+}
+    
