@@ -13,7 +13,7 @@
     min-height: 100vh;
     width: 100%;
     background-image: url("../images/447079_1280pxda.se.ne.zaboravi_ls.jpg");
-    background-position: center;
+    background-position: center center;
     background-size: cover;
     position: relative;
 }
@@ -21,9 +21,9 @@
 /* Styling the navbar */
 nav {
     display: flex;
-    padding: 3rem 10rem;
+    padding: 2rem 6rem;
     align-items: center;
-    font-size: 150%;
+    font-size: 20px;
 
 
 }
@@ -49,14 +49,39 @@ nav {
 
 .title {
     color: red;
-    position: absolute;
+    position: relative;
     text-align: left;
     width: 90%;
-    font-size: 260%;
+    font-size: 25px;
     padding-top: 11rem;
     padding-left: 2rem;
     
 }
-.title h2 {
-    padding-left: 8rem;
+
+
+/* Media Query: laptops and  (768px and up) */
+@media screen and (min-width: 768px) {
+   
+   nav {
+        display: block;
+        font-size: 30px;
+    }
+
+    .title  h1 {
+        font-size: 38px;
+        margin-top: 15rem;
+    
+    }
+
+
+}
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    .title h1 {
+        font-size: 80px;
+        padding-bottom: 0.2rem;
+        text-align: left;
+    }
+
+
 }
