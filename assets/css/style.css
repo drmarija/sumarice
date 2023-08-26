@@ -12,7 +12,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: url("../images/447079_1280pxda.se.ne.zaboravi_ls.jpg");
+    background-image: url("../images/Da.se.ne.zaboravi.jpg");
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -55,6 +55,7 @@ nav {
     font-size: 25px;
     padding-top: 11rem;
     padding-left: 2rem;
+    font-style: "Bree Serif", serif;
     
 }
 
