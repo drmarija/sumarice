@@ -47,32 +47,8 @@ nav {
     color: rgb(65, 245, 29);
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-}
 
-.text-container h2 {
-    color: rgb(250, 7, 7);
-    text-align: center;
-    position: relative;
-    padding: 1rem  0;
-    font-style: "Bree Serif", serif;
-    font-size: 65px;
-}
-.text-container p {
-    display: flex;
-    text-align: justify;
-    font-style: "Domine", serif;
-    color: rgb(250, 7, 7);
-    font-size: 20px;
-    text-shadow: 2px 2px 3px rgb(48, 3, 3);
-    margin: 0 3rem;
-    word-spacing: 1px;
-}
- .text-container a {
-    color: antiquewhite;
- }
+
 
 
 
@@ -84,10 +60,20 @@ nav {
         font-size: 30px;
         padding: 2rem 3rem;
     }
-}
+
 
 .container {
     flex-direction: column;
+}
+
+.img-container {
+    width: 50%;
+}
+.img-container img {
+    width: 10%;
+}
+
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
