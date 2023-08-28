@@ -47,6 +47,41 @@ nav {
     color: rgb(65, 245, 29);
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.box h2 { 
+    font-style: "Bree Serif", serif;
+    color: rgb(250, 7, 7);
+    text-shadow: 2px 2px 2px black;
+
+}
+
+.box p {
+    font-style: "Domine", serif;
+    color: rgb(250, 7, 7);
+    text-shadow: 2px 2px 2px black;
+}
+
+.box a {
+    color: white;
+}
+
+.box img {
+    width: 100%;
+    height: auto;
+}
+
 
 
 
@@ -61,20 +96,56 @@ nav {
         padding: 2rem 3rem;
     }
 
+    .container {
+        flex-direction: column;
+    }
 
-.container {
-    flex-direction: column;
-}
+    .box {
+        width: 78%;
+    }
 
-.img-container {
-    width: 50%;
-}
-.img-container img {
-    width: 10%;
-}
+    .box h2 {
+        padding: 0.75rem;
+        font-size: 30px;
+    }
+
+    .box p {
+        display: flex;
+        text-align: justify;
+        flex-direction: column; 
+        font-size: 17px;
+        padding: 0 3rem;
+    }
+
+    .box img {
+        padding: 2rem 1rem;
+        }
 
 
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+
+    nav {
+        margin-left: 3rem;
+    }
+
+    .box h2 {
+        font-size: 35px; 
+        margin-left: 15rem;
+        margin-top: 1rem;
+    }
+
+    .box p { 
+        font-size: 20px;
+        margin-top: 2rem;
+        margin-left: 14rem;
+
+    }
+
+    .box img {
+        margin-left: 18rem;
+    }
+
+}

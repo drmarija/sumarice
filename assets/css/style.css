@@ -78,6 +78,10 @@ nav {
 }
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
+
+    nav {
+        margin-left: 3rem;
+    }
     .title h1 {
         font-size: 80px;
         padding-bottom: 0.2rem;
