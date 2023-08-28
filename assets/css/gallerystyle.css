@@ -45,6 +45,18 @@ nav {
     color: whitesmoke;
 }
 
+.container {
+    display: flex;
+    max-width: 1500px;
+    flex-wrap: wrap;
+}
+
+.container img {
+    width: 100%;
+
+}
+
+
 /* Media Query: laptops and  (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -53,6 +65,12 @@ nav {
         font-size: 30px;
         padding: 2rem 3rem;
     }
+
+    .container img  {
+        width: 50%;
+        margin-top: 2rem;
+        
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -60,5 +78,15 @@ nav {
 
     nav {
         margin-left: 3rem;
+    }
+
+    .container img {
+        width: 25%;
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+
+    .container > img {
+        border: 3mm ridge rgba(0, 0, 0, 0.842);
     }
 }
