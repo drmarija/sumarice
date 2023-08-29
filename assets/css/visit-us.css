@@ -76,6 +76,14 @@ nav {
     color: black;
 }
 
+.my-page {
+    text-align: center;
+    padding: 20px 3px;
+    font-size: 150%;
+    color: black;
+    font-style: "Bree Serif", serif;
+}
+
 /* Media Query: laptops and  (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -83,6 +91,14 @@ nav {
         display: block;
         font-size: 30px;
         padding: 2rem 3rem;
+    }
+
+    #social-networks {
+        font-size: 190%;
+    }
+
+    .my-page {
+        font-size: 210%;
     }
 }
 
