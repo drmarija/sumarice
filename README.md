@@ -32,9 +32,9 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
 - The Poem Page
 
-  - The poem page includes the meaning behind the poem "A Bloody Fairy-Tale" and the picture of the stone with ingraved verse from the poem which children learn today in schools.
+  - The poem page includes the meaning behind the poem "A Bloody Fairy-Tale" and the picture of the stone with ingraved verse from the poem which children learn today in s and navigation bar are changed to red as symbol of a tragedy that has happened during World War Two.
 
-  - The background color and navigation bar are changed to red as symbol of a tragedy that has happened during World War Two.
+  - The font and navigation bar color are changed to red as a symbol of a tragedy that has happened during World War Two.
 
   ![poem page screenshot](assets/documents.html/poem.png)
 
