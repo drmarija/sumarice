@@ -14,7 +14,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
    
   ![navigation bar screenshot](assets/documents.html/navigation-bar.png)
 
-  * The Landing Page Image 
+* The Landing Page Image 
 
       * The landing page includes a photograph with title.
    
@@ -22,7 +22,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
   
   ![home page screenshot](assets/documents.html/title.png)
 
-  * Introduction Page
+* Introduction Page
       
       * The introduction page includes information about the event and the photograph of one the monuments which is representing the past state of mind.
   
@@ -30,7 +30,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   ![introduction page scrrenshot](assets/documents.html/introd.png)
   
-  * The Poem Page 
+* The Poem Page 
 
       * The poem page includes the meaning behind the poem "A Bloody Fairy-Tale" and the picture of the stone with ingraved verse from the poem which children learn today in schools.
   
@@ -38,7 +38,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
    ![poem page screenshot](assets/documents.html/poem.png)
 
-   * The Gallery Page 
+* The Gallery Page 
 
        * The gallery page will provide the user with supporting images to see that tragedy which has happened had a huge impact on the town, country and the world.
   
@@ -46,7 +46,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
    ![gallery page screenshot](assets/documents.html/gallery.png)
    
-   * The Visit Us Page
+* The Visit Us Page
 
        * The visit us page includes the google map with the location and footer with links to the relevant social media sites. At the bottom as part of the footer is link to my Github page.
   
