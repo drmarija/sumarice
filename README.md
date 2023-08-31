@@ -1,39 +1,69 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# A Bloody Fairy-Tale 
 
-Welcome,
+This is my first project and it is dedicated to myself (10 years of war zone) but also to current war in Ukraine. The idea behind the project is to remind all of us that war brings nothing good and that we as human kind are all fragile and temporarily on the planet. The approach to idea was to be presented in the style of the book ("fairytale") like parents read to children. Each page is different and has a symbol behind it. 
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![screenshot of responsive design](assets/documents.html/responsive-design.jpg)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+## Existing Features
 
-## Codeanywhere Reminders
+* Navigation Bar
+      
+      * Featured on all five pages the full responsive navigation bar includes links to Home page, Introduction, Poem, Gallery and Visit Us page and each page is different to wake up the curiosity of the reader what follows next.
+      * This section will alow the user to easily navigate from page to page across all devices without having to revert to the previous page via the "back" button.
+   
+  ![navigation bar screenshot](assets/documents.html/navigation-bar.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+  * The Landing Page Image 
 
-`python3 -m http.server`
+      * The landing page includes a photograph with title. 
+      * The title is written in red color to attract the user attention and curiosity.
+  
+  ![home page screenshot](assets/documents.html/title.png)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+  * Introduction Page
+      
+      * The introduction page includes information about the event and the photograph of one the monuments which is representing the past state of mind.
+      * The background is change to color to allow the user to easily read the content but also to prepare for the next page.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  ![introduction page scrrenshot](assets/documents.html/introd.png)
+  
+  * The Poem Page 
 
-`http_server`
+      * The poem page includes the meaning behind the poem "A Bloody Fairy-Tale" and the picture of the stone with ingraved verse from the poem which children learn today in schools.
+      * The background color and navigation bar are changed to red as symbol of a tragedy that has happened during World War Two.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+   ![poem page screenshot](assets/documents.html/poem.png)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+   * The Gallery Page 
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+       * The gallery page will provide the user with supporting images to see that tragedy which has happened had a huge impact on the town, country and the world.
+       * The background color is changed to green as the symbol where all the monuments lay in the Memorial Park.
 
-To log into the Heroku toolbelt CLI:
+   ![gallery page screenshot](assets/documents.html/gallery.png)
+   
+   * The Visit Us Page
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+       * The visit us page includes the google map with the location and footer with links to the relevant social media sites.At the bottom as part of the footer is link to my Github page.
+       * This page is valuable to user to find easily the location of the tragedy but also to necessary information for further knowdledge and insite of the events. Each link opens in the new tab so the user can easily navigate between pages. The user can also get more information about my work on this and other projects.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+   ![footer page screenshot](assets/documents.html/footer.png)
 
----
+## Techology Used 
 
-Happy coding!
+1. HTML5
+2. CSS3
+3. Google Chrome developer tools
+
+## Testing
+
+The project was tested on different small (mobile phones and iPads) and bigger (tablets, laptops and PC-s). It is fully responsive but the issue is that navbar jumps when tested on the screens under 800px. The problem lies in padding. Removing it solves the issue but then the navbar is very close to the top of the screen. 
+
+## Validator Testing
+
+* HTML
+
+   * All pages are showing one error with the message "The main element must not appear as a descendant of the section element. For validation was used [W3C](https://validator.w3.org)
+
+* CSS
+
+   * 

@@ -33,7 +33,7 @@ nav {
     display: inline-flex;
     justify-content: space-between;
     padding: 0 5rem;
-    font-style: "Bree Serif", serif;
+    font-family: "Bree Serif", serif;
 
 }
 
@@ -82,7 +82,7 @@ nav {
     padding: 20px 3px;
     font-size: 150%;
     color: black;
-    font-style: "Bree Serif", serif;
+    font-family: "Bree Serif", serif;
 }
 
 /* Media Query: laptops and  (768px and up) */

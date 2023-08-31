@@ -33,7 +33,7 @@ nav {
     display: inline-flex;
     justify-content: space-between;
     padding: 0 5rem;
-    font-style: "Bree Serif", serif;
+    font-family: "Bree Serif", serif;
 
 
 }
@@ -62,14 +62,14 @@ nav {
 }
 
 .box h2 { 
-    font-style: "Bree Serif", serif;
+    font-family: "Bree Serif", serif;
     color: rgb(250, 7, 7);
     text-shadow: 2px 2px 2px black;
 
 }
 
 .box p {
-    font-style: "Domine", serif;
+    font-family: "Domine", serif;
     color: rgb(250, 7, 7);
     text-shadow: 2px 2px 2px black;
 }
