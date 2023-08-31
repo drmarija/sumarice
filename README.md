@@ -66,4 +66,4 @@ The project was tested on different small (mobile phones and iPads) and bigger (
 
 * CSS
 
-   * 
+   * No errors were found when passing through the offical [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
