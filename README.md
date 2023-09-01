@@ -32,7 +32,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
 - The Poem Page
 
-  - The poem page includes the meaning behind the poem "A Bloody Fairy-Tale" and the picture of the stone with ingraved verse from the poem which children learn today in s and navigation bar are changed to red as symbol of a tragedy that has happened during World War Two.
+  - The poem page includes the meaning behind the poem "A Bloody Fairy-Tale" and the picture of the stone with ingraved verse from the poem which children learn today in school and navigation bar are changed to red as symbol of a tragedy that has happened during World War Two.
 
   - The font and navigation bar color are changed to red as a symbol of a tragedy that has happened during World War Two.
 
@@ -48,7 +48,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
 - The Visit Us Page
 
-  - The visit us page includes the google map with the location and footer with links to the relevant social media sites. At the bottom as part of the footer is link to my Github page.
+  - The visit us page includes the google map with the location and footer with links to the relevant social media sites. At the bottom of the page is link to my Github page, as part of footer.
 
   - This page is valuable to user to find easily the location of the tragedy but also to necessary information for further knowdledge and insite of the events. Each link opens in the new tab so the user can easily navigate between pages. The user can also get more information about my work on this and other projects.
 
@@ -113,7 +113,7 @@ The live link can be found here - [A Bloody Fairy-Tale](https://drmarija.github.
 
 2. [Code Institute](https://codeinstitute.net)
 
-3. [Dee Mc](https://github.com/Daisy-McG) -her Youtube channel for technical issues
+3. [Dee Mc](https://github.com/Daisy-McG) - her Youtube channel for technical issues
 
 ### Content
 
