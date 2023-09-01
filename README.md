@@ -2,7 +2,7 @@
 
 This is my first project and it is dedicated to myself (10 years of war zone) but also to current war in Ukraine. The idea behind the project is to remind all of us that war brings nothing good and that we as human kind are all fragile and temporarily on the planet. The approach to idea was to be presented in the style of the book ("fairytale") like parents read to children. Each page is different and has a symbol behind it.
 
-![screenshot of responsive design](assets/documents.html/responsive-design.jpg)
+![Screenshot of responsive design](assets/documents.html/responsive-design.jpg)
 
 ## Existing Features
 
@@ -12,7 +12,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   - This section will alow the user to easily navigate from page to page across all devices without having to revert to the previous page via the "back" button.
 
-  ![navigation bar screenshot](assets/documents.html/navigation-bar.png)
+  ![Navigation bar screenshot](assets/documents.html/navigation-bar.png)
 
 - The Landing Page Image
 
@@ -20,7 +20,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   - The title is written in red color to attract the user attention and curiosity.
 
-  ![home page screenshot](assets/documents.html/title.png)
+  ![Home page screenshot](assets/documents.html/title.png)
 
 - Introduction Page
 
@@ -28,7 +28,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   - The background is change to color to allow the user to easily read the content but also to prepare for the next page.
 
-  ![introduction page scrrenshot](assets/documents.html/introd.png)
+  ![Introduction page scrrenshot](assets/documents.html/introd.png)
 
 - The Poem Page
 
@@ -36,7 +36,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   - The font and navigation bar color are changed to red as a symbol of a tragedy that has happened during World War Two.
 
-  ![poem page screenshot](assets/documents.html/poem.png)
+  ![Poem page screenshot](assets/documents.html/poem.png)
 
 - The Gallery Page
 
@@ -44,7 +44,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   - The background color is changed to green as the symbol where all the monuments lay in the Memorial Park.
 
-  ![gallery page screenshot](assets/documents.html/gallery.png)
+  ![Gallery page screenshot](assets/documents.html/gallery.png)
 
 - The Visit Us Page
 
@@ -52,7 +52,7 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
 
   - This page is valuable to user to find easily the location of the tragedy but also to necessary information for further knowdledge and insite of the events. Each link opens in the new tab so the user can easily navigate between pages. The user can also get more information about my work on this and other projects.
 
-  ![footer page screenshot](assets/documents.html/footer.png)
+  ![Footer page screenshot](assets/documents.html/footer.png)
 
 ## Techology Used
 
@@ -97,3 +97,48 @@ This is my first project and it is dedicated to myself (10 years of war zone) bu
   - I confirmed that the colours and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 
   ![Lighthouse report](assets/documents.html/lighthouse-report.png)
+
+## Deployment
+
+- The site was deployed to Github pages. The steps to deploy are as follows:
+  - In the Github repositary, navigate to Settings tab
+  - From the source section drop-down menu choose the Main Branch 
+  - Once the Main Branch has been selected, go to pages where you can find the provided link to the completed website
+
+The live link can be found here - [A Bloody Fairy-Tale](https://drmarija.github.io/sumarice)
+
+## Credits
+
+1. [Lauren-Nicole](https://github.com/CluelessBiker) - my Mentor
+
+2. [Code Institute](https://codeinstitute.net)
+
+3. [Dee Mc](https://github.com/Daisy-McG) -her Youtube channel for technical issues
+
+### Content
+
+  - The inspiration for the project came from [Learning-Mind](https://learning-mind.com) and the page ["6 Dark Fairy Tales You Never Heard About"](https://learning-mind.com/dark-fairy-tales) 
+
+  - The Introduction text was taken from offical page [Memorial Park](https://spomenpark.rs/en/home/)
+
+  - The Meaning behind the poem was taken from [Poetry As Memory](https://geocities.ws/sqokeeffe/7.htm)
+
+### Media 
+
+  - The picture as background on the landing page is main monument in the Memorial Park - [Peto Tri - Five Three](https://bookaweb.com/ad/1932)
+
+  - The picture of the monument on introduction page was taken from - [Monument of Pain and Defiance](https://commons.wikimedia.org/wiki/File:Kragujevac,_Šumarice,_Spomenik_bola_i_prkosa.JPG)
+
+  - The picture of the stone with engraved verse was taken from -[Monument to fifth graders](https://commons.wikimedia.org/wiki/File:Šumarice_Memorial_Park,_Monument_to_fifth-graders,_04.jpg)
+
+  -  Gallery pictures:
+
+  1. [Museum 21st October](https://panacomp.net/sumarice-memorial-park-kragujevac)
+
+  2. [Monument of Friendship](https://wikimapia.org/1795500/Kragujevac-October-Memorial-park)
+
+  3. [Monument of Resistance and Freedom and Monument to shoecleaners boys- Crystal Flower](https://vreme.com/vreme/spomen-park-kragujevacki-oktobar/)
+
+  4. [Monument of Perfection and Full Life Circle](https://lepotesrbije.alo.rs/turizam/vesti/22622/simbol-savrsenstva-i-celovitosti-sastoji-se-od-sedam-celicnih-diskova-nejednake-velicine-i-predstavlja-svetlosnu-zizu-tri-grobnice-oko-njega/vest)
+
+  5. [Stone Sleeper](https://spomenikdatabase.org/kragujevac)
